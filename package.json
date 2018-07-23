@@ -1,0 +1,7 @@
+{
+  "name": "Diary Web App",
+  "version": "",
+  "dependencies": {
+    "react": "^16.4.1"
+  }
+}

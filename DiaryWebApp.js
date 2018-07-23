@@ -1,16 +1,9 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
-
-class DiaryWebApp extends Component{
-  constructor(props) {
-  }
-
-
+class DiaryWebApp extends Component {
   render() {
     return {
-      <div>
-        Hello world
-      </div>
+      console.log("hewwo");
     }
   }
 }
